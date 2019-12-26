@@ -1,0 +1,236 @@
+Mikroökonomie
+<body>
+ <div class="mw-parser-output">
+  <div class="mf-section-0" id="mf-section-0">
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:202px;">
+     <a href="/wiki/Datei:Supply-demand-right-shift-demand.svg" class="image"><span class="mw-mf-image-replacement">[Bild]</span></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/Datei:Supply-demand-right-shift-demand.svg" class="internal" title="vergrößern und Informationen zum Bild anzeigen"></a>
+      </div>Die Angebots- und Nachfragekurve im Modell. 
+      <i>Supply</i> (S) heißt Angebot, 
+      <i>demand</i> (D) Nachfrage.
+     </div>
+    </div>
+   </div> 
+   <p>Die <b>Mikroökonomie</b> (<span style="font-style:normal;font-weight:normal"><a href="/wiki/Neugriechische_Sprache" title="Neugriechische Sprache">griechisch</a></span> <span lang="el-Grek" class="Grek" style="font-style:normal">μικρός</span> <style data-mw-deduplicate="TemplateStyles:r183723573">.mw-parser-output .Latn{font-family:"Akzidenz Grotesk","Arial","Avant Garde Gothic","Calibri","Futura","Geneva","Gill Sans","Helvetica","Lucida Grande","Lucida Sans Unicode","Lucida Grande","Stone Sans","Tahoma","Trebuchet","Univers","Verdana"}</style><span class="Latn" lang="el-Latn" style="font-weight:normal;font-style:italic">mikrós</span>, deutsch <span lang="de" style="font-style:normal;font-weight:normal">‚klein‘</span>, <span lang="el-Grek" class="Grek">οἶκος</span> <i>oíkos</i> ‚Haus‘ und <a href="/wiki/-nomie" title="-nomie">-nomie</a>), auch <b>Mikroökonomik</b> oder <b>Mikrotheorie</b>, ist ein Teilgebiet der <a href="/wiki/Volkswirtschaftslehre" title="Volkswirtschaftslehre">Volkswirtschaftslehre</a>. Manche Autoren unterscheiden zwischen <i>Mikroökonomik als Wissenschaft</i> und <i>Mikroökonomie als deren <a href="/wiki/Erkenntnisobjekt" title="Erkenntnisobjekt">Untersuchungsgegenstand</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+   <p>Ihr Gegenstand ist das wirtschaftliche Verhalten einzelner <a href="/wiki/Wirtschaftssubjekt" class="mw-redirect" title="Wirtschaftssubjekt">Wirtschaftssubjekte</a> (<a href="/wiki/Privathaushalt" title="Privathaushalt">Haushalte</a> und <a href="/wiki/Unternehmen" title="Unternehmen">Unternehmen</a>). Sie analysiert <a href="/wiki/Entscheidung" title="Entscheidung">Entscheidungsprobleme</a> und Koordinationsvorgänge, die aufgrund der <a href="/wiki/Arbeitsteilung" title="Arbeitsteilung">Arbeitsteiligkeit</a> des Produktionsprozesses notwendig werden, und die <a href="/wiki/Ressourcenallokation" title="Ressourcenallokation">Allokation</a> <a href="/wiki/Knappheit" title="Knappheit">knapper</a> Ressourcen und <a href="/wiki/Gut_(Wirtschaftswissenschaft)" title="Gut (Wirtschaftswissenschaft)">Gütern</a> durch den <a href="/wiki/Markt_(Wirtschaftswissenschaft)" title="Markt (Wirtschaftswissenschaft)">Marktmechanismus</a>.<sup id="cite_ref-gabler_2-0" class="reference"><a href="#cite_note-gabler-2">[2]</a></sup> Insbesondere untersucht die Mikroökonomie Märkte, in denen Güter und Dienstleistungen gekauft und verkauft werden. Neben den Akteuren auf diesen Märkten werden auch die Marktstrukturen (<a href="/wiki/Monopol" title="Monopol">Monopol</a>, <a href="/wiki/Oligopol" title="Oligopol">Oligopol</a>, <a href="/wiki/Polypol" title="Polypol">Polypol</a>) berücksichtigt und die jeweiligen institutionellen Rahmenbedingungen. Ein zentrales Konzept ist das <a href="/wiki/Marktgleichgewicht" title="Marktgleichgewicht">Marktgleichgewicht</a>, welches sich durch die <a href="/wiki/Preisbildung" class="mw-redirect" title="Preisbildung">Preisbildung</a> einstellt. </p>
+   <p>Das zweite wichtige Teilgebiet der Volkswirtschaftslehre ist die <a href="/wiki/Makro%C3%B6konomie" title="Makroökonomie">Makroökonomie</a>. Im Gegensatz zur Mikroökonomie arbeitet die Makroökonomie mit <a href="/wiki/Aggregation_(Wirtschaft)" title="Aggregation (Wirtschaft)">aggregierten</a> Größen, also zum Beispiel mit dem Gesamteinkommen aller Haushalte. Mikroökonomische Aussagen lassen sich nicht ohne Weiteres zu makroökonomisch sinnvollen Aussagen zusammenfassen, was die Denkrichtung von der Einzel- zur Gesamtwirtschaft darstellt. Jedoch lassen sich viele makroökonomische Modellprämissen mikroökonomisch begründen. Der Fachterminus für die Vorgehensweise lautet <a href="/wiki/Mikrofundierung" title="Mikrofundierung">Mikrofundierung</a>. </p> 
+  </div>
+  <h2 class="section-heading">
+   <div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Geschichte">Geschichte</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Geschichte">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=1" title="Abschnitt bearbeiten: Geschichte">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+  <div class="mf-section-1" id="mf-section-1"> 
+   <div class="thumb tright">
+    <div class="thumbinner" style="width:172px;">
+     <a href="/wiki/Datei:AdamSmith.jpg" class="image"><span class="mw-mf-image-replacement">[Bild]</span></a> 
+     <div class="thumbcaption">
+      <div class="magnify">
+       <a href="/wiki/Datei:AdamSmith.jpg" class="internal" title="vergrößern und Informationen zum Bild anzeigen"></a>
+      </div>Adam Smith (1787)
+     </div>
+    </div>
+   </div> 
+   <p>Zumeist wird <a href="/wiki/Adam_Smith" title="Adam Smith">Adam Smith</a> als Begründer der Mikroökonomie (bzw. der <a href="/wiki/Klassische_National%C3%B6konomie" title="Klassische Nationalökonomie">klassischen Nationalökonomie</a>) genannt.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> In seinem Werk <i><a href="/wiki/Der_Wohlstand_der_Nationen" title="Der Wohlstand der Nationen">Der Wohlstand der Nationen</a></i> (1776) untersucht er u.&nbsp;a. Vor- und Nachteile des Marktmechanismus. Vor allem entdeckte er, wie aus individuellem Eigennutz volkswirtschaftlicher Nutzen entstehen kann. </p>
+   <p>Ende des <a href="/wiki/19._Jahrhundert" title="19. Jahrhundert">19. Jahrhunderts</a> setzte mit der <a href="/wiki/Grenznutzenschule" title="Grenznutzenschule">marginalistischen Revolution</a> die <i><a href="/wiki/Mathematik" title="Mathematik">Mathematisierung</a> der ökonomischen Analyse</i> ein, in deren Folge sich die Ökonomik auf quantifizierbare Phänomene (Mengen und Preise) konzentrierte und zur „<a href="/wiki/Wirtschaftswissenschaft" title="Wirtschaftswissenschaft">Wirtschaftswissenschaft</a>“ verengte, die das Verhalten von Anbietern und Nachfragern auf Märkten studierte. </p>
+   <p>Seit den 1950er Jahren erweiterte die Ökonomik kontinuierlich ihr Anwendungsgebiet. Durch <a href="/wiki/Gary_S._Becker" class="mw-redirect" title="Gary S. Becker">Gary S. Becker</a> wurden viele neue Bereiche der ökonomischen Analyse unterworfen, etwa aus Politik, Recht, Familie, Organisation oder Geschichte. </p> 
+  </div>
+  <h2 class="section-heading">
+   <div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Teilgebiete">Teilgebiete</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Teilgebiete">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=2" title="Abschnitt bearbeiten: Teilgebiete">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+  <div class="mf-section-2" id="mf-section-2"> 
+   <p>Zunächst sollen die klassischen Bereiche der Mikroökonomie betrachtet werden. </p> 
+   <h3 class="in-block"><span class="mw-headline" id="Haushaltstheorie">Haushaltstheorie</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Haushaltstheorie">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=3" title="Abschnitt bearbeiten: Haushaltstheorie">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Die <a href="/wiki/Haushaltstheorie" title="Haushaltstheorie">Haushaltstheorie</a> beschäftigt sich mit der Nachfrageseite auf dem <a href="/wiki/G%C3%BCtermarkt" title="Gütermarkt">Gütermarkt</a>. Wichtiger Untersuchungsgegenstand ist hier der <a href="/wiki/Nutzen_(Wirtschaft)" title="Nutzen (Wirtschaft)">Nutzen</a>, den ein Nachfrager durch den <a href="/wiki/Warenkorb" title="Warenkorb">Warenkorb</a>, die Menge aller Güter, die er in einer bestimmten Periode kauft, hat. Dafür spielen <a href="/wiki/Pr%C3%A4ferenzrelation" title="Präferenzrelation">Präferenzrelationen</a> und <a href="/wiki/Indifferenzkurve#Konvexit%C3%A4tsannahme_(oder_Ausgewogenheitsannahme)" title="Indifferenzkurve">Konvexitätsannahmen</a> eine wichtige Rolle. Für die Betrachtung von Präferenzrelationen sind insbesondere die <a href="/wiki/Transitivit%C3%A4tsannahme" title="Transitivitätsannahme">Transitivitätsannahme</a> und die <a href="/wiki/Vollst%C3%A4ndigkeitsannahme" title="Vollständigkeitsannahme">Vollständigkeitsannahme</a> von Präferenzen wichtig. Durch die Annahmen über einen rationalen Akteur lassen sich <a href="/wiki/Indifferenzkurve" title="Indifferenzkurve">Indifferenzkurven</a> beschreiben. </p> 
+   <h3 class="in-block"><span class="mw-headline" id="Produktionstheorie">Produktionstheorie</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Produktionstheorie">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=4" title="Abschnitt bearbeiten: Produktionstheorie">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Demgegenüber steht die <a href="/wiki/Produktionstheorie" title="Produktionstheorie">Produktionstheorie</a>, die sich mit der Angebotsseite des Gütermarktes beschäftigt. Ausgehend von einer gegebenen <a href="/wiki/Produktionsfunktion" title="Produktionsfunktion">Produktionsfunktion</a>, die das Verhältnis von Input- zu Outputfaktoren angibt, wird untersucht, welche Produktionsmengen mit welchen Inputfaktoren produziert werden sollen. </p> 
+   <h3 class="in-block"><span class="mw-headline" id="Preistheorie">Preistheorie</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Preistheorie">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=5" title="Abschnitt bearbeiten: Preistheorie">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Die <a href="/wiki/Preistheorie" title="Preistheorie">Preistheorie</a> untersucht die <a href="/wiki/Preisbildung" class="mw-redirect" title="Preisbildung">Preisbildung</a> als Ergebnis des Aufeinandertreffens von <a href="/wiki/Angebot_(Volkswirtschaftslehre)" title="Angebot (Volkswirtschaftslehre)">Angebot</a> und <a href="/wiki/Nachfrage" title="Nachfrage">Nachfrage</a> auf Märkten unter unterschiedlichen <a href="/wiki/Wettbewerb_(Wirtschaft)" title="Wettbewerb (Wirtschaft)">Wettbewerbsformen</a> sowie die Bedingungen für Erreichen und Stabilität eines <a href="/wiki/Marktgleichgewicht" title="Marktgleichgewicht">Marktgleichgewichts</a>. </p>
+   <p>In der Lehre an Universitäten hat die <a href="/wiki/Neoklassische_Theorie" title="Neoklassische Theorie">neoklassische</a> Mikroökonomie besondere Bedeutung. Diese arbeitet ebenso wie die anderen Teilgebiete der Mikroökonomie mit <a href="/wiki/Mathematisches_Modell" title="Mathematisches Modell">mathematischen Modellen</a>. </p> 
+   <h3 class="in-block"><span id="Neuere_Ans.C3.A4tze_und_angrenzende_Disziplinen"></span><span class="mw-headline" id="Neuere_Ansätze_und_angrenzende_Disziplinen">Neuere Ansätze und angrenzende Disziplinen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Neuere Ansätze und angrenzende Disziplinen">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=6" title="Abschnitt bearbeiten: Neuere Ansätze und angrenzende Disziplinen">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Neben diesen drei grundlegenden Teilen (Haushaltstheorie, Produktionstheorie und Preistheorie) haben sich weitere Ansätze herausgebildet: </p> 
+   <ul>
+    <li>In der <a href="/wiki/Neue_Institutionen%C3%B6konomik" title="Neue Institutionenökonomik">Neuen Institutionenökonomik</a> bzw. der <a href="/wiki/Transaktionskostentheorie" title="Transaktionskostentheorie">Transaktionskostentheorie</a> werden Faktoren wie <a href="/wiki/Asymmetrische_Information" title="Asymmetrische Information">asymmetrische Information</a>, <a href="/wiki/Begrenzte_Rationalit%C3%A4t" title="Begrenzte Rationalität">begrenzte Rationalität</a> und <a href="/wiki/Opportunismus" title="Opportunismus">Opportunismus</a> berücksichtigt, um zu realitätsnäheren Annahmen zu gelangen.</li> 
+    <li>Die <a href="/wiki/Spieltheorie" title="Spieltheorie">Spieltheorie</a> erweitert die Mikroökonomie um die zeitlich aufeinander folgenden Interaktionen mehrerer Marktteilnehmer (strategisches Verhalten). In der Risikotheorie wird der Umgang mit statistischer Unsicherheit oder ungleicher Informationsverteilung betrachtet.</li> 
+    <li>Die <a href="/wiki/Evolutions%C3%B6konomik" title="Evolutionsökonomik">Evolutionsökonomik</a> untersucht im Unterschied zur neoklassischen Mikroökonomie nicht die Bildung von Marktgleichgewichten, sondern sie untersucht die Dynamik von Wirtschaftsprozessen.</li> 
+    <li>Die <a href="/wiki/Experimentelle_%C3%96konomik" title="Experimentelle Ökonomik">Experimentelle Ökonomik</a> beschäftigt sich mit der experimentellen Überprüfung theoretischer Verhaltensannahmen der Mikroökonomie.</li> 
+    <li>Die <a href="/wiki/Verhaltens%C3%B6konomik" title="Verhaltensökonomik">Verhaltensökonomik</a> sucht Erklärungen für Verhalten, das der Annahme des rationalen Nutzenmaximierers widerspricht.</li> 
+    <li>Die <a href="/w/index.php?title=Mikro%C3%B6konometrie&amp;action=edit&amp;redlink=1" class="new" title="Mikroökonometrie (Seite nicht vorhanden)">Mikroökonometrie</a> bedient sich Methoden der <a href="/wiki/%C3%96konometrie" title="Ökonometrie">Ökonometrie</a> und befasst sich mit der quantitativen, in der Regel <a href="/wiki/Empirie" title="Empirie">empirischen</a> Untersuchung des mikroökonomischen Wirtschaftsgeschehens. Hierbei werden mathematische Methoden der <a href="/wiki/Statistik" title="Statistik">Statistik</a> und <a href="/wiki/Stochastik" title="Stochastik">Stochastik</a> verwendet und <a href="/wiki/Hypothese" title="Hypothese">Testhypothesen</a> abgegeben. Das makroökonomische Pendant ist die <a href="/wiki/Makro%C3%B6konometrie" class="mw-redirect" title="Makroökonometrie">Makroökonometrie</a>.</li>
+   </ul>
+  </div>
+  <h2 class="section-heading">
+   <div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Modellannahmen">Modellannahmen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Modellannahmen">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=7" title="Abschnitt bearbeiten: Modellannahmen">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+  <div class="mf-section-3" id="mf-section-3"> 
+   <p>In der Mikroökonomie werden, wie in der Volkswirtschaftslehre allgemein, oftmals <a href="/wiki/Abstraktion" title="Abstraktion">abstrakte</a> Modelle benutzt. Das hat den Vorteil, dass auf diese Weise konkrete Fragestellungen für die geistige Durchdringung beherrschbar gemacht werden. Dabei gibt es nur wenige fundamentale Annahmen, die überall in der Ökonomie gelten. </p>
+   <p>Gelten beispielsweise die Bedingungen nach <a href="/wiki/Jevons%E2%80%99_Gesetz" class="mw-redirect" title="Jevons’ Gesetz">Jevons’ Gesetz</a> (z.&nbsp;B. es gibt keine räumlichen oder zeitlichen Entfernungen), spricht man von <a href="/wiki/Vollkommener_Markt" title="Vollkommener Markt">vollkommenen Märkten</a>. Diese sind ein theoretisches Modell mit ganz speziellen restriktiven Annahmen. Auf einem vollkommenen Markt gibt es beispielsweise keine <a href="/wiki/Arbitrage" title="Arbitrage">Arbitrage</a>möglichkeiten, so dass Angebot und Nachfrage in einem gemeinsamen Punkt, dem <a href="/wiki/Marktgleichgewicht" title="Marktgleichgewicht">Marktgleichgewicht</a>, aufeinandertreffen. Restriktive Annahmen wie der vollkommene Markt, <a href="/wiki/Vollst%C3%A4ndige_Information" title="Vollständige Information">vollständige Information</a> oder die <i>Rationalität</i> des <a href="/wiki/Homo_oeconomicus" title="Homo oeconomicus">Homo oeconomicus</a> können aber aufgegeben werden, verlangen allerdings dementsprechend komplexere Modellierung. </p>
+   <p>Die Suche nach der optimalen Vereinfachung und Modellbildung ist ein typisches mikroökonomisches Problem: auf der einen Seite stehen die Kosten in Form von Realitätsferne, auf der anderen steht der Nutzen der Vereinfachung. Ein größeres Maß an Vereinfachung ist eben leider mit größerer Realitätsferne verbunden. Auch Vereinfachung ist ein knappes Gut.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+   <p>Geht es zunächst um die Frage, wie Märkte funktionieren, wird man erst einmal die Funktionsweise eines einzelnen Marktes betrachten. Soll das Zusammenspiel vieler oder aller Märkte gleichzeitig betrachtet werden (<a href="/wiki/Interdependenz" title="Interdependenz">Interdependenz</a>), spricht man von der <i>Theorie des Allgemeinen Gleichgewichts</i> (<a href="/wiki/Allgemeines_Gleichgewichtsmodell" title="Allgemeines Gleichgewichtsmodell">Allgemeines Gleichgewichtsmodell</a>). </p> 
+   <h3 class="in-block"><span class="mw-headline" id="Neoklassik">Neoklassik</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Neoklassik">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=8" title="Abschnitt bearbeiten: Neoklassik">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Insbesondere die vorherrschende <a href="/wiki/Neoklassische_Theorie" title="Neoklassische Theorie">neoklassische Wirtschaftstheorie</a> hat einige Standardannahmen: </p> 
+   <ul>
+    <li><a href="/wiki/Homo_oeconomicus" title="Homo oeconomicus">Homo oeconomicus</a>: Annahme individuell rationalen Verhaltens (Vorliegen einer vollständigen Präferenzordnung, Transitivität der Präferenzen)</li> 
+    <li>Haushalte: Streben nach <a href="/wiki/Nutzenfunktion_(Mikro%C3%B6konomie)" title="Nutzenfunktion (Mikroökonomie)">Nutzenmaximierung</a></li> 
+    <li>Unternehmen: Streben nach <a href="/wiki/Gewinnmaximierung" title="Gewinnmaximierung">Gewinnmaximierung</a></li> 
+    <li><a href="/wiki/Vollkommener_Markt" title="Vollkommener Markt">Vollkommener Markt</a> (nicht unbedingt Polypol)</li> 
+    <li><a href="/wiki/Vollst%C3%A4ndige_Information" title="Vollständige Information">Vollständige Information</a></li> 
+    <li>Keine <a href="/wiki/Externer_Effekt" title="Externer Effekt">Externalitäten</a></li>
+   </ul>
+   <h3 class="in-block"><span class="mw-headline" id="Andere_Perspektiven">Andere Perspektiven</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Andere Perspektiven">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=9" title="Abschnitt bearbeiten: Andere Perspektiven">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Bereits im 19. Jahrhundert wies <a href="/wiki/Gustav_von_Schmoller_(%C3%96konom)" title="Gustav von Schmoller (Ökonom)">Gustav von Schmoller</a> darauf hin, die Erkenntnisse der <a href="/wiki/Psychologie" title="Psychologie">Psychologie</a> müssten in den Wirtschaftswissenschaften stärkere Berücksichtigung finden. Vertreter der <a href="/wiki/Verhaltens%C3%B6konomik" title="Verhaltensökonomik">Verhaltensökonomik</a> gehen beispielsweise von einem anderen <a href="/wiki/Menschenbild" title="Menschenbild">Menschenbild</a> aus. Hierbei wird auch eine <a href="/wiki/Begrenzte_Rationalit%C3%A4t" title="Begrenzte Rationalität">begrenzte Rationalität</a> bei den Handelnden unterstellt. Die Nobelpreisträger des Jahres 2002 <a href="/wiki/Daniel_Kahneman" title="Daniel Kahneman">Daniel Kahneman</a> und <a href="/wiki/Vernon_L._Smith" title="Vernon L. Smith">Vernon L. Smith</a> haben der verhaltenstheoretischen Forschung in jüngster Vergangenheit Anerkennung eingebracht. Ein weiterer wesentlicher Bestandteil der Verhaltensökonomik ist die <a href="/wiki/Prospect_Theory" title="Prospect Theory">Prospect Theory</a> (Neue Erwartungstheorie), die eine psychologisch realistischere Alternative zu der <a href="/wiki/Erwartungsnutzentheorie" class="mw-redirect" title="Erwartungsnutzentheorie">Erwartungsnutzentheorie</a> darstellt. </p> 
+  </div>
+  <h2 class="section-heading">
+   <div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Untersuchungsmethoden">Untersuchungsmethoden</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Untersuchungsmethoden">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=10" title="Abschnitt bearbeiten: Untersuchungsmethoden">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+  <div class="mf-section-4" id="mf-section-4"> 
+   <p>Es gibt zwei klassische Methoden wirtschafts- und sozialwissenschaftlicher Untersuchungen:<sup id="cite_ref-gabler_2-1" class="reference"><a href="#cite_note-gabler-2">[2]</a></sup></p> 
+   <h3 class="in-block"><span class="mw-headline" id="Partialanalyse">Partialanalyse</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Partialanalyse">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=11" title="Abschnitt bearbeiten: Partialanalyse">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Bei der <a href="/wiki/Partialanalyse" class="mw-redirect" title="Partialanalyse">Partialanalyse</a> wird untersucht, wie das einzelne Wirtschaftssubjekt (Haushalt oder Unternehmen) sich in den über Märkte vermittelten Tauschprozess einfügt (Haushaltstheorie und Theorie der Unternehmung) bzw. wie solche Wirtschaftssubjekte auf einem einzelnen Produktmarkt zusammenwirken. Bei der Partialanalyse wird notwendigerweise von der <a href="/wiki/Ceteris_paribus" title="Ceteris paribus">Ceteris-Paribus</a>-Annahme Gebrauch gemacht. </p> 
+   <h3 class="in-block"><span class="mw-headline" id="Totalanalyse">Totalanalyse</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Totalanalyse">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=12" title="Abschnitt bearbeiten: Totalanalyse">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h3> 
+   <p>Bei der <a href="/w/index.php?title=Totalanalyse&amp;action=edit&amp;redlink=1" class="new" title="Totalanalyse (Seite nicht vorhanden)">Totalanalyse</a> wird das simultane Zusammenwirken aller am Wirtschaftsprozess beteiligten Wirtschaftssubjekte betrachtet (vgl. <a href="/wiki/Allgemeines_Gleichgewichtsmodell" title="Allgemeines Gleichgewichtsmodell">Allgemeines Gleichgewichtsmodell</a>). </p>
+   <p>Sowohl bei der Partial- als auch bei der Totalanalyse steht die Rolle der Preise und des Preissystems im Zentrum der Überlegungen (Preistheorie). </p> 
+  </div>
+  <h2 class="section-heading">
+   <div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Siehe_auch">Siehe auch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Siehe auch">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=13" title="Abschnitt bearbeiten: Siehe auch">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+  <div class="mf-section-5" id="mf-section-5"> 
+   <ul>
+    <li><a href="/wiki/Dorfman-Steiner-Theorem" title="Dorfman-Steiner-Theorem">Dorfman-Steiner-Theorem</a></li>
+   </ul>
+  </div>
+  <h2 class="section-heading">
+   <div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Literatur">Literatur</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Literatur">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=14" title="Abschnitt bearbeiten: Literatur">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+  <div class="mf-section-6" id="mf-section-6"> 
+   <ul>
+    <li>Friedrich Breyer: <i>Mikroökonomik. Eine Einführung</i>. 4. Auflage. Springer, Berlin 2008, <a href="/wiki/Spezial:ISBN-Suche/9783540851196" class="internal mw-magiclink-isbn">ISBN 978-3-540-85119-6</a>.</li> 
+    <li>Eberhard Feess: <i>Mikroökonomie. Eine spieltheoretisch- und anwendungsorientierte Einführung</i>. 3. Auflage. Metropolis, Marburg 2004, <a href="/wiki/Spezial:ISBN-Suche/3895184918" class="internal mw-magiclink-isbn">ISBN 3-89518-491-8</a>.</li> 
+    <li>Michael Heine, Hansjörg Herr: <i>Volkswirtschaftslehre. Paradigmenorientierte Einführung in die Mikro- und Makroökonomie</i>. Oldenbourg, München 2003, <a href="/wiki/Spezial:ISBN-Suche/3486272934" class="internal mw-magiclink-isbn">ISBN 3-486-27293-4</a>.</li> 
+    <li>Klaus Herdzina: <i>Einführung in die Mikroökonomik</i>. 10. Auflage. Vahlen, München 2005, <a href="/wiki/Spezial:ISBN-Suche/3800632721" class="internal mw-magiclink-isbn">ISBN 3-8006-3272-1</a>.</li> 
+    <li>Robert S. Pindyck, Daniel L. Rubinfeld: <i>Mikroökonomie</i>. 6. aktual. Auflage. Pearson Studium, München 2005, <a href="/wiki/Spezial:ISBN-Suche/3827371643" class="internal mw-magiclink-isbn">ISBN 3-8273-7164-3</a>.</li> 
+    <li><a href="/wiki/Helge_Peukert" title="Helge Peukert">Helge Peukert</a>: <i>Mikroökonomische Lehrbücher: Wissenschaft oder Ideologie?</i> Metropolis, Marburg 2018, <a href="/wiki/Spezial:ISBN-Suche/9783731613039" class="internal mw-magiclink-isbn">ISBN 978-3-7316-1303-9</a>.</li> 
+    <li>Winfried Reiß: <i>Mikroökonomische Theorie. Historisch fundierte Einführung</i>. 6. Auflage. Oldenbourg, München 2007, <a href="/wiki/Spezial:ISBN-Suche/9783486585445" class="internal mw-magiclink-isbn">ISBN 978-3-486-58544-5</a>.</li> 
+    <li><a href="/wiki/Hal_R._Varian" class="mw-redirect" title="Hal R. Varian">Hal R. Varian</a>: <i>Grundzüge der Mikroökonomik</i>. 8. Auflage. Oldenbourg, München 2011, <a href="/wiki/Spezial:ISBN-Suche/9783486704532" class="internal mw-magiclink-isbn">ISBN 978-3-486-70453-2</a>.</li>
+   </ul>
+  </div>
+  <h2 class="section-heading">
+   <div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Weblinks">Weblinks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Weblinks">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=15" title="Abschnitt bearbeiten: Weblinks">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+  <div class="mf-section-7" id="mf-section-7"> 
+   <div class="sisterproject" style="margin:0.1em 0 0 0;">
+    <span class="noviewer" style="padding-right:0.6em" role="presentation"><span class="mw-mf-image-replacement">[Wikibooks]</span></span>
+    <b><a href="https://de.wikibooks.org/wiki/Mikro%C3%B6konomie" class="extiw" title="b:Mikroökonomie">Wikibooks: Mikroökonomie</a></b>&nbsp;– Lern- und Lehrmaterialien
+   </div> 
+   <div class="sisterproject" style="margin:0.1em 0 0 0;">
+    <span class="mw-mf-image-replacement">[Bild]</span>&nbsp;
+    <b><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Microeconomics?uselang=de">Commons: Mikroökonomie</a></span></b>&nbsp;– Sammlung von Bildern, Videos und Audiodateien
+   </div> 
+   <ul>
+    <li><a rel="nofollow" class="external text" href="http://www.mikrooekonomie.org/">Winfried Reiß: <i>Mikroökonomische Theorie</i>.</a></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.mikroo.de/">Wilhelm Lorenz: Online-Einführung in die Mikroökonomie.</a></li> 
+    <li><a rel="nofollow" class="external text" href="http://www.wagner-berlin.de/leit.htm">Ralf Wagner: Leitfaden Volkswirtschaftslehre.</a></li>
+   </ul>
+  </div>
+  <h2 class="section-heading">
+   <div class="mw-ui-icon mw-ui-icon-element indicator mw-ui-icon-small mw-ui-icon-flush-left"></div><span class="mw-headline" id="Einzelnachweise">Einzelnachweise</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;veaction=edit&amp;section=16" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Einzelnachweise">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Mikro%C3%B6konomie&amp;action=edit&amp;section=16" title="Abschnitt bearbeiten: Einzelnachweise">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+  <div class="mf-section-8" id="mf-section-8"> 
+   <ol class="references">
+    <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mikrooekonomie.de/Einfuehrung/Einfuehrung.htm">Einführung</a> – Seite auf <i>mikrooekonomie.de</i></span> </li> 
+    <li id="cite_note-gabler-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-gabler_2-0">a</a></sup> <sup><a href="#cite_ref-gabler_2-1">b</a></sup></span> <span class="reference-text">Gabler Wirtschaftslexikon: <a rel="nofollow" class="external text" href="http://wirtschaftslexikon.gabler.de/Definition/mikrooekonomik.html"><i>Mikroökonomik</i></a>.</span> </li> 
+    <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Paul Anthony Samuelson, William D. Nordhaus: <i>Volkswirtschaftslehre. Das internationale Standardwerk der Makro- und Mikroökonomie</i>. 2. Auflage. mi-Fachverlag, 2005, <a href="/wiki/Spezial:ISBN-Suche/9783636030337" class="internal mw-magiclink-isbn">ISBN 978-3-636-03033-7</a>, S. 21.</span> </li> 
+    <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mikrooekonomie.de/Einfuehrung/Grundlegende%20Annahmen.htm"><i>Grundlegende Annahmen</i></a> – Artikel bei <i>mikrooekonomie.de</i></span> </li> 
+   </ol>
+   <div id="normdaten" class="catlinks normdaten-typ-s">
+    Normdaten&nbsp;(Sachbegriff): 
+    <a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: 
+    <span class="plainlinks-print"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4039225-9">4039225-9</a></span> 
+    <span class="metadata noprint">(<a rel="nofollow" class="external text" href="http://swb.bsz-bw.de/DB=2.104/SET=1/TTL=1/CMD?retrace=0&amp;trm_old=&amp;ACT=SRCHA&amp;IKT=2999&amp;SRT=RLV&amp;TRM=4039225-9">OGND</a>, <a rel="nofollow" class="external text" href="https://beacon.findbuch.de/seemore/gnd-aks?format=sources&amp;id=4039225-9">AKS</a>)</span> 
+    <span class="metadata"></span>
+   </div> 
+  </div>
+ </div>
+</body>
+/wiki/-nomie   #mf-section-0 > p:nth-child(2) > a:nth-child(9)
+/wiki/Volkswirtschaftslehre   #mf-section-0 > p:nth-child(2) > a:nth-child(12)
+/wiki/Wirtschaftssubjekt   #mf-section-0 > p:nth-child(3) > a.mw-redirect:nth-child(1)
+/wiki/Privathaushalt   #mf-section-0 > p:nth-child(3) > a:nth-child(2)
+/wiki/Unternehmen   #mf-section-0 > p:nth-child(3) > a:nth-child(3)
+/wiki/Entscheidung   #mf-section-0 > p:nth-child(3) > a:nth-child(4)
+/wiki/Arbeitsteilung   #mf-section-0 > p:nth-child(3) > a:nth-child(5)
+/wiki/Ressourcenallokation   #mf-section-0 > p:nth-child(3) > a:nth-child(6)
+/wiki/Knappheit   #mf-section-0 > p:nth-child(3) > a:nth-child(7)
+/wiki/Gut (Wirtschaftswissenschaft)   #mf-section-0 > p:nth-child(3) > a:nth-child(8)
+/wiki/Markt (Wirtschaftswissenschaft)   #mf-section-0 > p:nth-child(3) > a:nth-child(9)
+/wiki/Monopol   #mf-section-0 > p:nth-child(3) > a:nth-child(11)
+/wiki/Oligopol   #mf-section-0 > p:nth-child(3) > a:nth-child(12)
+/wiki/Polypol   #mf-section-0 > p:nth-child(3) > a:nth-child(13)
+/wiki/Marktgleichgewicht   #mf-section-0 > p:nth-child(3) > a:nth-child(14)
+/wiki/Preisbildung   #mf-section-0 > p:nth-child(3) > a.mw-redirect:nth-child(15)
+/wiki/Makroökonomie   #mf-section-0 > p:nth-child(4) > a:nth-child(1)
+/wiki/Aggregation (Wirtschaft)   #mf-section-0 > p:nth-child(4) > a:nth-child(2)
+/wiki/Mikrofundierung   #mf-section-0 > p:nth-child(4) > a:nth-child(3)
+/wiki/Adam Smith   #mf-section-1 > p:nth-child(2) > a:nth-child(1)
+/wiki/Klassische Nationalökonomie   #mf-section-1 > p:nth-child(2) > a:nth-child(2)
+/wiki/19. Jahrhundert   #mf-section-1 > p:nth-child(3) > a:nth-child(1)
+/wiki/Grenznutzenschule   #mf-section-1 > p:nth-child(3) > a:nth-child(2)
+/wiki/Wirtschaftswissenschaft   #mf-section-1 > p:nth-child(3) > a:nth-child(4)
+/wiki/Gary S. Becker   #mf-section-1 > p:nth-child(4) > a.mw-redirect
+/wiki/Haushaltstheorie   #mf-section-2 > p:nth-child(3) > a:nth-child(1)
+/wiki/Gütermarkt   #mf-section-2 > p:nth-child(3) > a:nth-child(2)
+/wiki/Nutzen (Wirtschaft)   #mf-section-2 > p:nth-child(3) > a:nth-child(3)
+/wiki/Warenkorb   #mf-section-2 > p:nth-child(3) > a:nth-child(4)
+/wiki/Präferenzrelation   #mf-section-2 > p:nth-child(3) > a:nth-child(5)
+/wiki/Indifferenzkurve#Konvexitätsannahme (oder Ausgewogenheitsannahme)   #mf-section-2 > p:nth-child(3) > a:nth-child(6)
+/wiki/Transitivitätsannahme   #mf-section-2 > p:nth-child(3) > a:nth-child(7)
+/wiki/Vollständigkeitsannahme   #mf-section-2 > p:nth-child(3) > a:nth-child(8)
+/wiki/Indifferenzkurve   #mf-section-2 > p:nth-child(3) > a:nth-child(9)
+/wiki/Produktionstheorie   #mf-section-2 > p:nth-child(5) > a:nth-child(1)
+/wiki/Produktionsfunktion   #mf-section-2 > p:nth-child(5) > a:nth-child(2)
+/wiki/Preistheorie   #mf-section-2 > p:nth-child(7) > a:nth-child(1)
+/wiki/Preisbildung   #mf-section-2 > p:nth-child(7) > a.mw-redirect
+/wiki/Angebot (Volkswirtschaftslehre)   #mf-section-2 > p:nth-child(7) > a:nth-child(3)
+/wiki/Nachfrage   #mf-section-2 > p:nth-child(7) > a:nth-child(4)
+/wiki/Wettbewerb (Wirtschaft)   #mf-section-2 > p:nth-child(7) > a:nth-child(5)
+/wiki/Marktgleichgewicht   #mf-section-2 > p:nth-child(7) > a:nth-child(6)
+/wiki/Neoklassische Theorie   #mf-section-2 > p:nth-child(8) > a:nth-child(1)
+/wiki/Mathematisches Modell   #mf-section-2 > p:nth-child(8) > a:nth-child(2)
+/wiki/Neue Institutionenökonomik   #mf-section-2 > ul > li:nth-child(1) > a:nth-child(1)
+/wiki/Transaktionskostentheorie   #mf-section-2 > ul > li:nth-child(1) > a:nth-child(2)
+/wiki/Asymmetrische Information   #mf-section-2 > ul > li:nth-child(1) > a:nth-child(3)
+/wiki/Begrenzte Rationalität   #mf-section-2 > ul > li:nth-child(1) > a:nth-child(4)
+/wiki/Opportunismus   #mf-section-2 > ul > li:nth-child(1) > a:nth-child(5)
+/wiki/Spieltheorie   #mf-section-2 > ul > li:nth-child(2) > a
+/wiki/Evolutionsökonomik   #mf-section-2 > ul > li:nth-child(3) > a
+/wiki/Experimentelle Ökonomik   #mf-section-2 > ul > li:nth-child(4) > a
+/wiki/Verhaltensökonomik   #mf-section-2 > ul > li:nth-child(5) > a
+/wiki/Ökonometrie   #mf-section-2 > ul > li:nth-child(6) > a:nth-child(2)
+/wiki/Empirie   #mf-section-2 > ul > li:nth-child(6) > a:nth-child(3)
+/wiki/Statistik   #mf-section-2 > ul > li:nth-child(6) > a:nth-child(4)
+/wiki/Stochastik   #mf-section-2 > ul > li:nth-child(6) > a:nth-child(5)
+/wiki/Hypothese   #mf-section-2 > ul > li:nth-child(6) > a:nth-child(6)
+/wiki/Makroökonometrie   #mf-section-2 > ul > li:nth-child(6) > a.mw-redirect
+/wiki/Abstraktion   #mf-section-3 > p:nth-child(1) > a
+/wiki/Jevons’ Gesetz   #mf-section-3 > p:nth-child(2) > a.mw-redirect
+/wiki/Vollkommener Markt   #mf-section-3 > p:nth-child(2) > a:nth-child(2)
+/wiki/Arbitrage   #mf-section-3 > p:nth-child(2) > a:nth-child(3)
+/wiki/Marktgleichgewicht   #mf-section-3 > p:nth-child(2) > a:nth-child(4)
+/wiki/Vollständige Information   #mf-section-3 > p:nth-child(2) > a:nth-child(5)
+/wiki/Homo oeconomicus   #mf-section-3 > p:nth-child(2) > a:nth-child(7)
+/wiki/Interdependenz   #mf-section-3 > p:nth-child(4) > a:nth-child(1)
+/wiki/Allgemeines Gleichgewichtsmodell   #mf-section-3 > p:nth-child(4) > a:nth-child(3)
+/wiki/Neoklassische Theorie   #mf-section-3 > p:nth-child(6) > a
+/wiki/Homo oeconomicus   #mf-section-3 > ul > li:nth-child(1) > a
+/wiki/Nutzenfunktion (Mikroökonomie)   #mf-section-3 > ul > li:nth-child(2) > a
+/wiki/Gewinnmaximierung   #mf-section-3 > ul > li:nth-child(3) > a
+/wiki/Vollkommener Markt   #mf-section-3 > ul > li:nth-child(4) > a
+/wiki/Vollständige Information   #mf-section-3 > ul > li:nth-child(5) > a
+/wiki/Externer Effekt   #mf-section-3 > ul > li:nth-child(6) > a
+/wiki/Gustav von Schmoller (Ökonom)   #mf-section-3 > p:nth-child(9) > a:nth-child(1)
+/wiki/Psychologie   #mf-section-3 > p:nth-child(9) > a:nth-child(2)
+/wiki/Verhaltensökonomik   #mf-section-3 > p:nth-child(9) > a:nth-child(3)
+/wiki/Menschenbild   #mf-section-3 > p:nth-child(9) > a:nth-child(4)
+/wiki/Begrenzte Rationalität   #mf-section-3 > p:nth-child(9) > a:nth-child(5)
+/wiki/Daniel Kahneman   #mf-section-3 > p:nth-child(9) > a:nth-child(6)
+/wiki/Vernon L. Smith   #mf-section-3 > p:nth-child(9) > a:nth-child(7)
+/wiki/Prospect Theory   #mf-section-3 > p:nth-child(9) > a:nth-child(8)
+/wiki/Erwartungsnutzentheorie   #mf-section-3 > p:nth-child(9) > a.mw-redirect
+/wiki/Partialanalyse   #mf-section-4 > p:nth-child(3) > a.mw-redirect
+/wiki/Ceteris paribus   #mf-section-4 > p:nth-child(3) > a:nth-child(2)
+/wiki/Allgemeines Gleichgewichtsmodell   #mf-section-4 > p:nth-child(5) > a:nth-child(2)
+/wiki/Dorfman-Steiner-Theorem   #mf-section-5 > ul > li > a
+/wiki/Helge Peukert   #mf-section-6 > ul > li:nth-child(6) > a:nth-child(1)
+/wiki/Hal R. Varian   #mf-section-6 > ul > li:nth-child(8) > a.mw-redirect
